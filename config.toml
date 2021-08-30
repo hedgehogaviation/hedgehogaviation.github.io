@@ -1,21 +1,21 @@
 baseurl = "http://www.hedgehogaviation.com"
-title = "Hedgehog Aviation"
+#title = "Hedgehog Aviation"
 
 theme = "hugo-coder"
 
 [params]
-    author = "Hedgehog Aviation Services"
+    author = "Hedgehog Aviation"
     description = "Hedgehog Aviation place holder"
     keywords = "Flying, ecommerce, blog"
     info = "Coming soon"
     #avatarurl = "images/avatar.jpg"
-    footercontent = "Nothing here yet."
+    footercontent = '<a href="mailto:matthew@hedgehogaviation.com">Contact us</a>'
 
 [taxonomies]
     series = "series"
 
 # Menu links
-[[menu.main]]
-    name = "Blog"
-    weight = 1
-    url  = "/posts/"
+#[[menu.main]]
+#    name = "Blog"
+#    weight = 1
+#    url  = "/posts/"
