@@ -1,5 +1,4 @@
 baseurl = "http://www.hedgehogaviation.com"
-#title = "Hedgehog Aviation"
 
 theme = "hugo-coder"
 
